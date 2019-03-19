@@ -1,0 +1,110 @@
+.orange {
+  background: #fa0;
+}
+
+.green {
+  background: #090;
+}
+
+.color-orange {
+  color: #fa0;
+}
+
+.color-deep-orange {
+  color: #f90;
+}
+
+.color-green {
+  color: #090;
+}
+
+.color-gray {
+  color: #333;
+}
+
+.main-header {
+  padding: 10px 0;
+  border-bottom: 6px dashed #f80;
+}
+
+.phone {
+  font-size: 24px;
+  font-weight: bold;
+  color: #000;
+}
+
+.car {
+  display: block;
+  font-size: 24px;
+  color: #000;
+  font-weight: bold;
+}
+
+.hour {
+  font-size: 24px;
+  color: #ffd;
+}
+
+.visual {
+  height: 380px;
+  background: url('../img/evakuator.jpg') center right;
+}
+
+.visual__title {
+  color: #ffd;
+  font-size: 54px;
+}
+
+.layout {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 20px;  
+  position: absolute;
+  bottom: 0;
+  color: #ffffff;
+}
+
+.text {
+  margin-top: 40px;
+}
+
+.advantage h3 {
+  font-size: 22px;
+}
+
+.advantage__icon {
+  font-size: 54px;
+  width: 80px;
+}
+
+.advantage__icon span {
+  vertical-align: top;
+}
+
+.advantage li {
+  margin-bottom: 20px;
+}
+
+.call {
+  font-size: 32px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.call-big {
+  font-size: 42px;
+  font-weight: bold;
+}
+
+.feedback {
+  margin: 70px 0;
+}
+
+footer {
+  background: #333;
+  color: #ddd;
+  padding: 20px;
+}
+
+footer p {
+  
+}
