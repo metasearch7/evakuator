@@ -87,7 +87,6 @@
 .call {
   font-size: 32px;
   font-weight: bold;
-  padding: 10px;
 }
 
 .call-big {
@@ -103,8 +102,4 @@ footer {
   background: #333;
   color: #ddd;
   padding: 20px;
-}
-
-footer p {
-  
 }
